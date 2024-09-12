@@ -1,5 +1,5 @@
-answer = input(" do yu agree?" )
-if answer == "yes":
-    print("agreed")
+anwers = input("Do you agree?" )
+if  anwers =="yes":
+    print("Agreed.")
 else:
-    print("No Agreed")
+    print("Not Agreed")
